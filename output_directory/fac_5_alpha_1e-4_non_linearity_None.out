@@ -1,0 +1,106 @@
+5
+ParameterList(
+    (0): Parameter containing: [torch.float32 of size 20x20]
+    (1): Parameter containing: [torch.float32 of size 20x20]
+    (2): Parameter containing: [torch.float32 of size 20x20]
+    (3): Parameter containing: [torch.float32 of size 20x20]
+    (4): Parameter containing: [torch.float32 of size 20x20]
+)
+5
+ParameterList(
+    (0): Parameter containing: [torch.float32 of size 20x20]
+    (1): Parameter containing: [torch.float32 of size 20x20]
+    (2): Parameter containing: [torch.float32 of size 20x20]
+    (3): Parameter containing: [torch.float32 of size 20x20]
+    (4): Parameter containing: [torch.float32 of size 20x20]
+)
+Trace: 286.5966277313232
+Eigenvalues: 43.70608901977539
+Iteration 1:
+Training Loss: 5.363600254058838
+Reconstruction Loss: -0.4699627161026001
+Trace: 220.3240953063965
+Eigenvalues: 37.78924560546875
+Iteration 1:
+Training Loss: 5.637622833251953
+Reconstruction Loss: -0.33317825198173523
+Trace: 5514.152143554687
+Eigenvalues: 293.6934814453125
+Iteration 101:
+Training Loss: 4.469168663024902
+Reconstruction Loss: -0.7565324306488037
+Trace: 9002.067255859374
+Eigenvalues: 409.0198059082031
+Iteration 101:
+Training Loss: 4.239684104919434
+Reconstruction Loss: -0.7696134448051453
+Trace: 9866.51439453125
+Eigenvalues: 355.3328552246094
+Iteration 201:
+Training Loss: 3.4046454429626465
+Reconstruction Loss: -1.3117409944534302
+Trace: 12554.91529296875
+Eigenvalues: 469.544677734375
+Iteration 201:
+Training Loss: 3.081043243408203
+Reconstruction Loss: -1.369252324104309
+Trace: 12597.678359375
+Eigenvalues: 394.51385498046875
+Iteration 301:
+Training Loss: 2.094924211502075
+Reconstruction Loss: -2.2221779823303223
+Trace: 14415.9213671875
+Eigenvalues: 487.128662109375
+Iteration 301:
+Training Loss: 1.7632906436920166
+Reconstruction Loss: -2.078014850616455
+Trace: 13992.61865234375
+Eigenvalues: 426.0911560058594
+Iteration 401:
+Training Loss: 0.5181682109832764
+Reconstruction Loss: -3.396803379058838
+Trace: 15198.397265625
+Eigenvalues: 490.76806640625
+Iteration 401:
+Training Loss: 0.6360418200492859
+Reconstruction Loss: -2.871695041656494
+Trace: 13950.20365234375
+Eigenvalues: 438.4736328125
+Iteration 501:
+Training Loss: -0.6435020565986633
+Reconstruction Loss: -4.32151985168457
+Trace: 15348.95392578125
+Eigenvalues: 492.7809753417969
+Iteration 501:
+Training Loss: -0.20806200802326202
+Reconstruction Loss: -3.515737295150757
+Trace: 14774.36767578125
+Eigenvalues: 442.10772705078125
+Iteration 601:
+Training Loss: -1.4035722017288208
+Reconstruction Loss: -4.9852986335754395
+Trace: 15315.39302734375
+Eigenvalues: 494.61920166015625
+Iteration 601:
+Training Loss: -0.8050366640090942
+Reconstruction Loss: -4.0088043212890625
+Trace: 14517.694453125
+Eigenvalues: 443.0916748046875
+Iteration 701:
+Training Loss: -1.9068037271499634
+Reconstruction Loss: -5.449653625488281
+Trace: 15490.11515625
+Eigenvalues: 496.5796203613281
+Iteration 701:
+Training Loss: -1.2350903749465942
+Reconstruction Loss: -4.39532470703125
+Trace: 14528.1717578125
+Eigenvalues: 443.43475341796875
+Iteration 801:
+Training Loss: -2.251382350921631
+Reconstruction Loss: -5.768838882446289
+Trace: 15205.12013671875
+Eigenvalues: 498.4684753417969
+Iteration 801:
+Training Loss: -1.561029076576233
+Reconstruction Loss: -4.708009719848633

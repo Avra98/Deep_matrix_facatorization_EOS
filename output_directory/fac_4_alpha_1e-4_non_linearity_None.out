@@ -1,0 +1,134 @@
+5
+ParameterList(
+    (0): Parameter containing: [torch.float32 of size 20x20]
+    (1): Parameter containing: [torch.float32 of size 20x20]
+    (2): Parameter containing: [torch.float32 of size 20x20]
+    (3): Parameter containing: [torch.float32 of size 20x20]
+)
+5
+ParameterList(
+    (0): Parameter containing: [torch.float32 of size 20x20]
+    (1): Parameter containing: [torch.float32 of size 20x20]
+    (2): Parameter containing: [torch.float32 of size 20x20]
+    (3): Parameter containing: [torch.float32 of size 20x20]
+)
+Trace: -9.739503173828124
+Eigenvalues: 17.080001831054688
+Iteration 1:
+Training Loss: 5.492284297943115
+Reconstruction Loss: -0.4016163647174835
+Trace: 6.301071701049804
+Eigenvalues: 17.641830444335938
+Iteration 1:
+Training Loss: 5.6023173332214355
+Reconstruction Loss: -0.4172070026397705
+Trace: 228.6390803527832
+Eigenvalues: 54.28803253173828
+Iteration 101:
+Training Loss: 5.360028266906738
+Reconstruction Loss: -0.4705752432346344
+Trace: 468.6290168762207
+Eigenvalues: 52.99188995361328
+Iteration 101:
+Training Loss: 5.43041467666626
+Reconstruction Loss: -0.4796188771724701
+Trace: 4429.11201171875
+Eigenvalues: 263.1845397949219
+Iteration 201:
+Training Loss: 4.313704013824463
+Reconstruction Loss: -0.8812156915664673
+Trace: 5546.6972265625
+Eigenvalues: 250.67013549804688
+Iteration 201:
+Training Loss: 4.286553382873535
+Reconstruction Loss: -0.7164502143859863
+Trace: 6066.568994140625
+Eigenvalues: 281.7405090332031
+Iteration 301:
+Training Loss: 3.912837028503418
+Reconstruction Loss: -1.0285720825195312
+Trace: 7708.08509765625
+Eigenvalues: 250.44862365722656
+Iteration 301:
+Training Loss: 3.0062475204467773
+Reconstruction Loss: -1.2814973592758179
+Trace: 7184.689833984375
+Eigenvalues: 290.33721923828125
+Iteration 401:
+Training Loss: 3.4073872566223145
+Reconstruction Loss: -1.1563445329666138
+Trace: 8544.773671875
+Eigenvalues: 250.92306518554688
+Iteration 401:
+Training Loss: 2.1330347061157227
+Reconstruction Loss: -1.7977542877197266
+Trace: 8144.556708984375
+Eigenvalues: 287.54742431640625
+Iteration 501:
+Training Loss: 2.8689820766448975
+Reconstruction Loss: -1.4241636991500854
+Trace: 9084.99080078125
+Eigenvalues: 259.0537109375
+Iteration 501:
+Training Loss: 1.3914884328842163
+Reconstruction Loss: -2.323333501815796
+Trace: 8877.35306640625
+Eigenvalues: 276.0834655761719
+Iteration 601:
+Training Loss: 2.0563573837280273
+Reconstruction Loss: -2.0669052600860596
+Trace: 9539.941181640625
+Eigenvalues: 267.8074645996094
+Iteration 601:
+Training Loss: 0.7723397016525269
+Reconstruction Loss: -2.83477783203125
+Trace: 9627.74720703125
+Eigenvalues: 280.5716552734375
+Iteration 701:
+Training Loss: 0.9104050993919373
+Reconstruction Loss: -3.03861141204834
+Trace: 9650.879873046875
+Eigenvalues: 275.0885314941406
+Iteration 701:
+Training Loss: 0.15624231100082397
+Reconstruction Loss: -3.3516201972961426
+Trace: 10114.5085546875
+Eigenvalues: 287.5748291015625
+Iteration 801:
+Training Loss: -0.25828179717063904
+Reconstruction Loss: -4.031234264373779
+Trace: 10026.770546875
+Eigenvalues: 280.88323974609375
+Iteration 801:
+Training Loss: -0.4374958276748657
+Reconstruction Loss: -3.8439760208129883
+Trace: 10336.52837890625
+Eigenvalues: 291.0417785644531
+Iteration 901:
+Training Loss: -1.1502737998962402
+Reconstruction Loss: -4.839460372924805
+Trace: 9918.205361328124
+Eigenvalues: 285.20477294921875
+Iteration 901:
+Training Loss: -0.9599372148513794
+Reconstruction Loss: -4.280735015869141
+Trace: 10145.80357421875
+Eigenvalues: 292.70184326171875
+Iteration 1001:
+Training Loss: -1.7948977947235107
+Reconstruction Loss: -5.450408935546875
+Trace: 9815.6751953125
+Eigenvalues: 288.2851257324219
+Iteration 1001:
+Training Loss: -1.388540267944336
+Reconstruction Loss: -4.651130199432373
+Trace: 9862.982001953125
+Eigenvalues: 293.6578063964844
+Iteration 1101:
+Training Loss: -2.2397451400756836
+Reconstruction Loss: -5.88770866394043
+Trace: 9947.737783203125
+Eigenvalues: 290.444580078125
+Iteration 1101:
+Training Loss: -1.7291028499603271
+Reconstruction Loss: -4.960243225097656

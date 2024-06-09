@@ -1,0 +1,1508 @@
+5
+ParameterList(
+    (0): Parameter containing: [torch.float32 of size 20x20]
+    (1): Parameter containing: [torch.float32 of size 20x20]
+    (2): Parameter containing: [torch.float32 of size 20x20]
+    (3): Parameter containing: [torch.float32 of size 20x20]
+    (4): Parameter containing: [torch.float32 of size 20x20]
+)
+Iteration 1:
+Training Loss: 5.500688552856445
+Reconstruction Loss: -0.4375668168067932
+Iteration 51:
+Training Loss: 5.4101786613464355
+Reconstruction Loss: -0.4429320693016052
+Iteration 101:
+Training Loss: 5.002275466918945
+Reconstruction Loss: -0.5998879671096802
+Iteration 151:
+Training Loss: 4.488447666168213
+Reconstruction Loss: -0.7950926423072815
+Iteration 201:
+Training Loss: 4.030900478363037
+Reconstruction Loss: -0.9187959432601929
+Iteration 251:
+Training Loss: 3.286910057067871
+Reconstruction Loss: -1.2531272172927856
+Iteration 301:
+Training Loss: 2.8397412300109863
+Reconstruction Loss: -1.589303731918335
+Iteration 351:
+Training Loss: 2.2614362239837646
+Reconstruction Loss: -2.0215225219726562
+Iteration 401:
+Training Loss: 1.0662074089050293
+Reconstruction Loss: -2.924724578857422
+Iteration 451:
+Training Loss: -0.23428542912006378
+Reconstruction Loss: -4.205867290496826
+Iteration 501:
+Training Loss: -1.8475229740142822
+Reconstruction Loss: -5.475207805633545
+Iteration 551:
+Training Loss: -2.983103036880493
+Reconstruction Loss: -6.566915035247803
+Iteration 601:
+Training Loss: -3.742280960083008
+Reconstruction Loss: -7.4513421058654785
+Iteration 651:
+Training Loss: -4.395673751831055
+Reconstruction Loss: -8.109607696533203
+Iteration 701:
+Training Loss: -4.759148597717285
+Reconstruction Loss: -8.54384708404541
+Iteration 751:
+Training Loss: -4.927369117736816
+Reconstruction Loss: -8.794110298156738
+Iteration 801:
+Training Loss: -5.047036170959473
+Reconstruction Loss: -8.94037914276123
+Iteration 851:
+Training Loss: -5.196183204650879
+Reconstruction Loss: -9.026633262634277
+Iteration 901:
+Training Loss: -5.140886306762695
+Reconstruction Loss: -9.076318740844727
+Iteration 951:
+Training Loss: -5.2807159423828125
+Reconstruction Loss: -9.115760803222656
+Iteration 1001:
+Training Loss: -5.0873637199401855
+Reconstruction Loss: -9.138788223266602
+Iteration 1051:
+Training Loss: -5.192407131195068
+Reconstruction Loss: -9.16664981842041
+Iteration 1101:
+Training Loss: -5.3029584884643555
+Reconstruction Loss: -9.195758819580078
+Iteration 1151:
+Training Loss: -5.350332260131836
+Reconstruction Loss: -9.209540367126465
+Iteration 1201:
+Training Loss: -5.2487897872924805
+Reconstruction Loss: -9.23010540008545
+Iteration 1251:
+Training Loss: -5.282578945159912
+Reconstruction Loss: -9.25191879272461
+Iteration 1301:
+Training Loss: -5.305708885192871
+Reconstruction Loss: -9.270899772644043
+Iteration 1351:
+Training Loss: -5.333819389343262
+Reconstruction Loss: -9.288202285766602
+Iteration 1401:
+Training Loss: -5.38250732421875
+Reconstruction Loss: -9.304555892944336
+Iteration 1451:
+Training Loss: -5.27858304977417
+Reconstruction Loss: -9.318949699401855
+Iteration 1501:
+Training Loss: -5.436178684234619
+Reconstruction Loss: -9.336804389953613
+Iteration 1551:
+Training Loss: -5.47611141204834
+Reconstruction Loss: -9.349688529968262
+Iteration 1601:
+Training Loss: -5.570208549499512
+Reconstruction Loss: -9.36915111541748
+Iteration 1651:
+Training Loss: -5.55025053024292
+Reconstruction Loss: -9.391519546508789
+Iteration 1701:
+Training Loss: -5.609990119934082
+Reconstruction Loss: -9.400969505310059
+Iteration 1751:
+Training Loss: -5.4970197677612305
+Reconstruction Loss: -9.420355796813965
+Iteration 1801:
+Training Loss: -5.490274906158447
+Reconstruction Loss: -9.431178092956543
+Iteration 1851:
+Training Loss: -5.74085807800293
+Reconstruction Loss: -9.452482223510742
+Iteration 1901:
+Training Loss: -5.668250560760498
+Reconstruction Loss: -9.458621978759766
+Iteration 1951:
+Training Loss: -5.7277679443359375
+Reconstruction Loss: -9.474453926086426
+Iteration 2001:
+Training Loss: -5.618237495422363
+Reconstruction Loss: -9.494425773620605
+Iteration 2051:
+Training Loss: -5.696755409240723
+Reconstruction Loss: -9.50539779663086
+Iteration 2101:
+Training Loss: -5.679013252258301
+Reconstruction Loss: -9.519387245178223
+Iteration 2151:
+Training Loss: -5.640748500823975
+Reconstruction Loss: -9.534673690795898
+Iteration 2201:
+Training Loss: -5.631494522094727
+Reconstruction Loss: -9.552278518676758
+Iteration 2251:
+Training Loss: -5.662045478820801
+Reconstruction Loss: -9.564197540283203
+Iteration 2301:
+Training Loss: -5.669665813446045
+Reconstruction Loss: -9.57357120513916
+Iteration 2351:
+Training Loss: -5.758450984954834
+Reconstruction Loss: -9.583008766174316
+Iteration 2401:
+Training Loss: -5.784721851348877
+Reconstruction Loss: -9.595148086547852
+Iteration 2451:
+Training Loss: -5.692613124847412
+Reconstruction Loss: -9.605095863342285
+Iteration 2501:
+Training Loss: -5.806698322296143
+Reconstruction Loss: -9.623543739318848
+Iteration 2551:
+Training Loss: -5.793495178222656
+Reconstruction Loss: -9.640400886535645
+Iteration 2601:
+Training Loss: -5.845157623291016
+Reconstruction Loss: -9.647589683532715
+Iteration 2651:
+Training Loss: -5.794718265533447
+Reconstruction Loss: -9.653290748596191
+Iteration 2701:
+Training Loss: -5.802003860473633
+Reconstruction Loss: -9.669739723205566
+Iteration 2751:
+Training Loss: -5.711953163146973
+Reconstruction Loss: -9.679547309875488
+Iteration 2801:
+Training Loss: -5.876894950866699
+Reconstruction Loss: -9.68706226348877
+Iteration 2851:
+Training Loss: -5.93355131149292
+Reconstruction Loss: -9.698378562927246
+Iteration 2901:
+Training Loss: -5.986362934112549
+Reconstruction Loss: -9.712873458862305
+Iteration 2951:
+Training Loss: -5.81269645690918
+Reconstruction Loss: -9.724709510803223
+Iteration 3001:
+Training Loss: -5.841858386993408
+Reconstruction Loss: -9.7373685836792
+Iteration 3051:
+Training Loss: -5.892008304595947
+Reconstruction Loss: -9.74399185180664
+Iteration 3101:
+Training Loss: -5.948920726776123
+Reconstruction Loss: -9.7518892288208
+Iteration 3151:
+Training Loss: -6.033376693725586
+Reconstruction Loss: -9.76353645324707
+Iteration 3201:
+Training Loss: -5.885437965393066
+Reconstruction Loss: -9.778740882873535
+Iteration 3251:
+Training Loss: -5.87954044342041
+Reconstruction Loss: -9.789875984191895
+Iteration 3301:
+Training Loss: -5.998298645019531
+Reconstruction Loss: -9.792372703552246
+Iteration 3351:
+Training Loss: -5.992559432983398
+Reconstruction Loss: -9.809220314025879
+Iteration 3401:
+Training Loss: -6.005860328674316
+Reconstruction Loss: -9.817495346069336
+Iteration 3451:
+Training Loss: -5.941615104675293
+Reconstruction Loss: -9.828938484191895
+Iteration 3501:
+Training Loss: -6.103384017944336
+Reconstruction Loss: -9.837380409240723
+Iteration 3551:
+Training Loss: -6.143272399902344
+Reconstruction Loss: -9.840417861938477
+Iteration 3601:
+Training Loss: -6.067854404449463
+Reconstruction Loss: -9.85171127319336
+Iteration 3651:
+Training Loss: -6.016695022583008
+Reconstruction Loss: -9.859360694885254
+Iteration 3701:
+Training Loss: -6.134284019470215
+Reconstruction Loss: -9.873644828796387
+Iteration 3751:
+Training Loss: -6.135415077209473
+Reconstruction Loss: -9.875733375549316
+Iteration 3801:
+Training Loss: -6.072168827056885
+Reconstruction Loss: -9.889778137207031
+Iteration 3851:
+Training Loss: -6.195478439331055
+Reconstruction Loss: -9.90063190460205
+Iteration 3901:
+Training Loss: -6.163605213165283
+Reconstruction Loss: -9.91085147857666
+Iteration 3951:
+Training Loss: -6.1889543533325195
+Reconstruction Loss: -9.914106369018555
+Iteration 4001:
+Training Loss: -6.116184711456299
+Reconstruction Loss: -9.922636032104492
+Iteration 4051:
+Training Loss: -6.246376037597656
+Reconstruction Loss: -9.92824935913086
+Iteration 4101:
+Training Loss: -6.169609069824219
+Reconstruction Loss: -9.939746856689453
+Iteration 4151:
+Training Loss: -6.104475498199463
+Reconstruction Loss: -9.944724082946777
+Iteration 4201:
+Training Loss: -6.3225016593933105
+Reconstruction Loss: -9.952479362487793
+Iteration 4251:
+Training Loss: -6.294565200805664
+Reconstruction Loss: -9.964518547058105
+Iteration 4301:
+Training Loss: -6.367510795593262
+Reconstruction Loss: -9.967477798461914
+Iteration 4351:
+Training Loss: -6.248529434204102
+Reconstruction Loss: -9.980497360229492
+Iteration 4401:
+Training Loss: -6.228813171386719
+Reconstruction Loss: -9.985462188720703
+Iteration 4451:
+Training Loss: -6.293435096740723
+Reconstruction Loss: -9.990320205688477
+Iteration 4501:
+Training Loss: -6.324199199676514
+Reconstruction Loss: -10.001347541809082
+Iteration 4551:
+Training Loss: -6.287285804748535
+Reconstruction Loss: -10.007715225219727
+Iteration 4601:
+Training Loss: -6.3437676429748535
+Reconstruction Loss: -10.025192260742188
+Iteration 4651:
+Training Loss: -6.110471248626709
+Reconstruction Loss: -10.022490501403809
+Iteration 4701:
+Training Loss: -6.338605880737305
+Reconstruction Loss: -10.032142639160156
+Iteration 4751:
+Training Loss: -6.2696990966796875
+Reconstruction Loss: -10.040959358215332
+Iteration 4801:
+Training Loss: -6.3420000076293945
+Reconstruction Loss: -10.047174453735352
+Iteration 4851:
+Training Loss: -6.326592922210693
+Reconstruction Loss: -10.050298690795898
+Iteration 4901:
+Training Loss: -6.198648452758789
+Reconstruction Loss: -10.06580638885498
+Iteration 4951:
+Training Loss: -6.335630893707275
+Reconstruction Loss: -10.063926696777344
+Iteration 5001:
+Training Loss: -6.358200550079346
+Reconstruction Loss: -10.073920249938965
+Iteration 5051:
+Training Loss: -6.321507453918457
+Reconstruction Loss: -10.08403205871582
+Iteration 5101:
+Training Loss: -6.455050468444824
+Reconstruction Loss: -10.086462020874023
+Iteration 5151:
+Training Loss: -6.4860520362854
+Reconstruction Loss: -10.094916343688965
+Iteration 5201:
+Training Loss: -6.423945903778076
+Reconstruction Loss: -10.105464935302734
+Iteration 5251:
+Training Loss: -6.32227087020874
+Reconstruction Loss: -10.10314655303955
+Iteration 5301:
+Training Loss: -6.379463195800781
+Reconstruction Loss: -10.116381645202637
+Iteration 5351:
+Training Loss: -6.366995334625244
+Reconstruction Loss: -10.122137069702148
+Iteration 5401:
+Training Loss: -6.394471645355225
+Reconstruction Loss: -10.128650665283203
+Iteration 5451:
+Training Loss: -6.433568477630615
+Reconstruction Loss: -10.136101722717285
+Iteration 5501:
+Training Loss: -6.413427352905273
+Reconstruction Loss: -10.139253616333008
+Iteration 5551:
+Training Loss: -6.297886371612549
+Reconstruction Loss: -10.148038864135742
+Iteration 5601:
+Training Loss: -6.413426399230957
+Reconstruction Loss: -10.154438972473145
+Iteration 5651:
+Training Loss: -6.554344654083252
+Reconstruction Loss: -10.158530235290527
+Iteration 5701:
+Training Loss: -6.52828311920166
+Reconstruction Loss: -10.163774490356445
+Iteration 5751:
+Training Loss: -6.585043907165527
+Reconstruction Loss: -10.175644874572754
+Iteration 5801:
+Training Loss: -6.620326519012451
+Reconstruction Loss: -10.175650596618652
+Iteration 5851:
+Training Loss: -6.513859748840332
+Reconstruction Loss: -10.18510913848877
+Iteration 5901:
+Training Loss: -6.487526893615723
+Reconstruction Loss: -10.19398021697998
+Iteration 5951:
+Training Loss: -6.442922115325928
+Reconstruction Loss: -10.193273544311523
+Iteration 6001:
+Training Loss: -6.453819751739502
+Reconstruction Loss: -10.203702926635742
+Iteration 6051:
+Training Loss: -6.4089436531066895
+Reconstruction Loss: -10.211930274963379
+Iteration 6101:
+Training Loss: -6.578494548797607
+Reconstruction Loss: -10.213569641113281
+Iteration 6151:
+Training Loss: -6.524543762207031
+Reconstruction Loss: -10.228158950805664
+Iteration 6201:
+Training Loss: -6.4114227294921875
+Reconstruction Loss: -10.225546836853027
+Iteration 6251:
+Training Loss: -6.461599826812744
+Reconstruction Loss: -10.233536720275879
+Iteration 6301:
+Training Loss: -6.399258613586426
+Reconstruction Loss: -10.232050895690918
+Iteration 6351:
+Training Loss: -6.58203125
+Reconstruction Loss: -10.240518569946289
+Iteration 6401:
+Training Loss: -6.51727819442749
+Reconstruction Loss: -10.245270729064941
+Iteration 6451:
+Training Loss: -6.520281791687012
+Reconstruction Loss: -10.255566596984863
+Iteration 6501:
+Training Loss: -6.433671951293945
+Reconstruction Loss: -10.260119438171387
+Iteration 6551:
+Training Loss: -6.580770969390869
+Reconstruction Loss: -10.264636039733887
+Iteration 6601:
+Training Loss: -6.407273292541504
+Reconstruction Loss: -10.270885467529297
+Iteration 6651:
+Training Loss: -6.656149864196777
+Reconstruction Loss: -10.280872344970703
+Iteration 6701:
+Training Loss: -6.614588260650635
+Reconstruction Loss: -10.279707908630371
+Iteration 6751:
+Training Loss: -6.684640407562256
+Reconstruction Loss: -10.287972450256348
+Iteration 6801:
+Training Loss: -6.559588432312012
+Reconstruction Loss: -10.285810470581055
+Iteration 6851:
+Training Loss: -6.6339874267578125
+Reconstruction Loss: -10.297170639038086
+Iteration 6901:
+Training Loss: -6.58993673324585
+Reconstruction Loss: -10.299430847167969
+Iteration 6951:
+Training Loss: -6.633724689483643
+Reconstruction Loss: -10.311514854431152
+Iteration 7001:
+Training Loss: -6.7336883544921875
+Reconstruction Loss: -10.312984466552734
+Iteration 7051:
+Training Loss: -6.514041900634766
+Reconstruction Loss: -10.316548347473145
+Iteration 7101:
+Training Loss: -6.772085189819336
+Reconstruction Loss: -10.326824188232422
+Iteration 7151:
+Training Loss: -6.633774280548096
+Reconstruction Loss: -10.32408332824707
+Iteration 7201:
+Training Loss: -6.641053199768066
+Reconstruction Loss: -10.33348274230957
+Iteration 7251:
+Training Loss: -6.626453399658203
+Reconstruction Loss: -10.337180137634277
+Iteration 7301:
+Training Loss: -6.590347766876221
+Reconstruction Loss: -10.33777141571045
+Iteration 7351:
+Training Loss: -6.601720333099365
+Reconstruction Loss: -10.348098754882812
+Iteration 7401:
+Training Loss: -6.873678684234619
+Reconstruction Loss: -10.351092338562012
+Iteration 7451:
+Training Loss: -6.6127543449401855
+Reconstruction Loss: -10.356622695922852
+Iteration 7501:
+Training Loss: -6.894610404968262
+Reconstruction Loss: -10.359443664550781
+Iteration 7551:
+Training Loss: -6.649895191192627
+Reconstruction Loss: -10.36297607421875
+Iteration 7601:
+Training Loss: -6.7523322105407715
+Reconstruction Loss: -10.376802444458008
+Iteration 7651:
+Training Loss: -6.742671012878418
+Reconstruction Loss: -10.377837181091309
+Iteration 7701:
+Training Loss: -6.638930320739746
+Reconstruction Loss: -10.380818367004395
+Iteration 7751:
+Training Loss: -6.695088863372803
+Reconstruction Loss: -10.387469291687012
+Iteration 7801:
+Training Loss: -6.734508991241455
+Reconstruction Loss: -10.388591766357422
+Iteration 7851:
+Training Loss: -6.822732925415039
+Reconstruction Loss: -10.396986961364746
+Iteration 7901:
+Training Loss: -6.7030229568481445
+Reconstruction Loss: -10.403650283813477
+Iteration 7951:
+Training Loss: -6.706701278686523
+Reconstruction Loss: -10.405776023864746
+Iteration 8001:
+Training Loss: -6.7057390213012695
+Reconstruction Loss: -10.407611846923828
+Iteration 8051:
+Training Loss: -6.81950569152832
+Reconstruction Loss: -10.409798622131348
+Iteration 8101:
+Training Loss: -6.753774166107178
+Reconstruction Loss: -10.422500610351562
+Iteration 8151:
+Training Loss: -6.72902774810791
+Reconstruction Loss: -10.421107292175293
+Iteration 8201:
+Training Loss: -6.644893169403076
+Reconstruction Loss: -10.425711631774902
+Iteration 8251:
+Training Loss: -6.755507946014404
+Reconstruction Loss: -10.432746887207031
+Iteration 8301:
+Training Loss: -6.889930248260498
+Reconstruction Loss: -10.43390941619873
+Iteration 8351:
+Training Loss: -6.845612049102783
+Reconstruction Loss: -10.440996170043945
+Iteration 8401:
+Training Loss: -6.744795799255371
+Reconstruction Loss: -10.44184684753418
+Iteration 8451:
+Training Loss: -6.727342128753662
+Reconstruction Loss: -10.454096794128418
+Iteration 8501:
+Training Loss: -6.7955780029296875
+Reconstruction Loss: -10.4539213180542
+Iteration 8551:
+Training Loss: -6.743968963623047
+Reconstruction Loss: -10.45479965209961
+Iteration 8601:
+Training Loss: -6.9084930419921875
+Reconstruction Loss: -10.463624000549316
+Iteration 8651:
+Training Loss: -7.062217712402344
+Reconstruction Loss: -10.467780113220215
+Iteration 8701:
+Training Loss: -6.741153240203857
+Reconstruction Loss: -10.47340202331543
+Iteration 8751:
+Training Loss: -6.998111248016357
+Reconstruction Loss: -10.477010726928711
+Iteration 8801:
+Training Loss: -6.776655197143555
+Reconstruction Loss: -10.479168891906738
+Iteration 8851:
+Training Loss: -6.782232284545898
+Reconstruction Loss: -10.483990669250488
+Iteration 8901:
+Training Loss: -6.750848770141602
+Reconstruction Loss: -10.48328685760498
+Iteration 8951:
+Training Loss: -6.7967000007629395
+Reconstruction Loss: -10.495382308959961
+Iteration 9001:
+Training Loss: -6.950014591217041
+Reconstruction Loss: -10.498429298400879
+Iteration 9051:
+Training Loss: -6.74208927154541
+Reconstruction Loss: -10.498785018920898
+Iteration 9101:
+Training Loss: -6.912975311279297
+Reconstruction Loss: -10.504610061645508
+Iteration 9151:
+Training Loss: -6.981040954589844
+Reconstruction Loss: -10.51061725616455
+Iteration 9201:
+Training Loss: -6.892495632171631
+Reconstruction Loss: -10.512564659118652
+Iteration 9251:
+Training Loss: -7.040567874908447
+Reconstruction Loss: -10.520716667175293
+Iteration 9301:
+Training Loss: -6.848404884338379
+Reconstruction Loss: -10.526857376098633
+Iteration 9351:
+Training Loss: -6.863242149353027
+Reconstruction Loss: -10.521941184997559
+Iteration 9401:
+Training Loss: -6.787981986999512
+Reconstruction Loss: -10.525742530822754
+Iteration 9451:
+Training Loss: -7.050159931182861
+Reconstruction Loss: -10.533761978149414
+Iteration 9501:
+Training Loss: -6.902232646942139
+Reconstruction Loss: -10.53748607635498
+Iteration 9551:
+Training Loss: -6.826812744140625
+Reconstruction Loss: -10.54224681854248
+Iteration 9601:
+Training Loss: -6.924929618835449
+Reconstruction Loss: -10.541338920593262
+Iteration 9651:
+Training Loss: -7.049503326416016
+Reconstruction Loss: -10.549511909484863
+Iteration 9701:
+Training Loss: -6.978619575500488
+Reconstruction Loss: -10.552545547485352
+Iteration 9751:
+Training Loss: -6.948892116546631
+Reconstruction Loss: -10.558097839355469
+Iteration 9801:
+Training Loss: -7.043374538421631
+Reconstruction Loss: -10.563685417175293
+Iteration 9851:
+Training Loss: -7.0725789070129395
+Reconstruction Loss: -10.55830192565918
+Iteration 9901:
+Training Loss: -6.935022830963135
+Reconstruction Loss: -10.568297386169434
+Iteration 9951:
+Training Loss: -6.847404479980469
+Reconstruction Loss: -10.574297904968262
+Iteration 10001:
+Training Loss: -6.987038612365723
+Reconstruction Loss: -10.576179504394531
+Iteration 10051:
+Training Loss: -6.978425979614258
+Reconstruction Loss: -10.579055786132812
+Iteration 10101:
+Training Loss: -6.971878528594971
+Reconstruction Loss: -10.577390670776367
+Iteration 10151:
+Training Loss: -7.002840518951416
+Reconstruction Loss: -10.5856351852417
+Iteration 10201:
+Training Loss: -7.105025291442871
+Reconstruction Loss: -10.589398384094238
+Iteration 10251:
+Training Loss: -7.053867816925049
+Reconstruction Loss: -10.58679485321045
+Iteration 10301:
+Training Loss: -7.026444435119629
+Reconstruction Loss: -10.59490966796875
+Iteration 10351:
+Training Loss: -6.994942665100098
+Reconstruction Loss: -10.597954750061035
+Iteration 10401:
+Training Loss: -6.94697904586792
+Reconstruction Loss: -10.605263710021973
+Iteration 10451:
+Training Loss: -6.853094100952148
+Reconstruction Loss: -10.60826301574707
+Iteration 10501:
+Training Loss: -6.990305423736572
+Reconstruction Loss: -10.604862213134766
+Iteration 10551:
+Training Loss: -6.982500076293945
+Reconstruction Loss: -10.616937637329102
+Iteration 10601:
+Training Loss: -7.033609867095947
+Reconstruction Loss: -10.616405487060547
+Iteration 10651:
+Training Loss: -7.0889763832092285
+Reconstruction Loss: -10.62111759185791
+Iteration 10701:
+Training Loss: -7.115976333618164
+Reconstruction Loss: -10.623807907104492
+Iteration 10751:
+Training Loss: -7.076078414916992
+Reconstruction Loss: -10.630423545837402
+Iteration 10801:
+Training Loss: -7.151691913604736
+Reconstruction Loss: -10.629222869873047
+Iteration 10851:
+Training Loss: -7.113039016723633
+Reconstruction Loss: -10.6387300491333
+Iteration 10901:
+Training Loss: -7.037055492401123
+Reconstruction Loss: -10.640183448791504
+Iteration 10951:
+Training Loss: -7.109907150268555
+Reconstruction Loss: -10.6425199508667
+Iteration 11001:
+Training Loss: -7.019941806793213
+Reconstruction Loss: -10.647759437561035
+Iteration 11051:
+Training Loss: -7.184972286224365
+Reconstruction Loss: -10.648835182189941
+Iteration 11101:
+Training Loss: -6.973751068115234
+Reconstruction Loss: -10.646795272827148
+Iteration 11151:
+Training Loss: -7.119600772857666
+Reconstruction Loss: -10.650883674621582
+Iteration 11201:
+Training Loss: -7.12483024597168
+Reconstruction Loss: -10.656147956848145
+Iteration 11251:
+Training Loss: -7.121666431427002
+Reconstruction Loss: -10.665982246398926
+Iteration 11301:
+Training Loss: -7.055637836456299
+Reconstruction Loss: -10.666570663452148
+Iteration 11351:
+Training Loss: -7.064690589904785
+Reconstruction Loss: -10.671133041381836
+Iteration 11401:
+Training Loss: -7.165623188018799
+Reconstruction Loss: -10.67363452911377
+Iteration 11451:
+Training Loss: -7.166834354400635
+Reconstruction Loss: -10.67535400390625
+Iteration 11501:
+Training Loss: -7.1700592041015625
+Reconstruction Loss: -10.673929214477539
+Iteration 11551:
+Training Loss: -7.158697128295898
+Reconstruction Loss: -10.678060531616211
+Iteration 11601:
+Training Loss: -7.102917671203613
+Reconstruction Loss: -10.68651008605957
+Iteration 11651:
+Training Loss: -7.154822826385498
+Reconstruction Loss: -10.685881614685059
+Iteration 11701:
+Training Loss: -7.221919059753418
+Reconstruction Loss: -10.687200546264648
+Iteration 11751:
+Training Loss: -7.239147186279297
+Reconstruction Loss: -10.696565628051758
+Iteration 11801:
+Training Loss: -7.113712310791016
+Reconstruction Loss: -10.702892303466797
+Iteration 11851:
+Training Loss: -7.068744659423828
+Reconstruction Loss: -10.701390266418457
+Iteration 11901:
+Training Loss: -7.098095417022705
+Reconstruction Loss: -10.704060554504395
+Iteration 11951:
+Training Loss: -7.012009620666504
+Reconstruction Loss: -10.707900047302246
+Iteration 12001:
+Training Loss: -7.339982986450195
+Reconstruction Loss: -10.705475807189941
+Iteration 12051:
+Training Loss: -7.260162830352783
+Reconstruction Loss: -10.717240333557129
+Iteration 12101:
+Training Loss: -7.13811731338501
+Reconstruction Loss: -10.719585418701172
+Iteration 12151:
+Training Loss: -7.365729808807373
+Reconstruction Loss: -10.72177791595459
+Iteration 12201:
+Training Loss: -7.186601161956787
+Reconstruction Loss: -10.723174095153809
+Iteration 12251:
+Training Loss: -7.090391635894775
+Reconstruction Loss: -10.72951602935791
+Iteration 12301:
+Training Loss: -7.0756378173828125
+Reconstruction Loss: -10.73071575164795
+Iteration 12351:
+Training Loss: -7.161669731140137
+Reconstruction Loss: -10.738459587097168
+Iteration 12401:
+Training Loss: -7.254445552825928
+Reconstruction Loss: -10.739992141723633
+Iteration 12451:
+Training Loss: -7.189450740814209
+Reconstruction Loss: -10.737896919250488
+Iteration 12501:
+Training Loss: -7.080348014831543
+Reconstruction Loss: -10.746720314025879
+Iteration 12551:
+Training Loss: -7.2204084396362305
+Reconstruction Loss: -10.747931480407715
+Iteration 12601:
+Training Loss: -7.2575154304504395
+Reconstruction Loss: -10.750792503356934
+Iteration 12651:
+Training Loss: -7.187867641448975
+Reconstruction Loss: -10.750588417053223
+Iteration 12701:
+Training Loss: -7.186564922332764
+Reconstruction Loss: -10.755847930908203
+Iteration 12751:
+Training Loss: -7.215939044952393
+Reconstruction Loss: -10.756348609924316
+Iteration 12801:
+Training Loss: -7.307554244995117
+Reconstruction Loss: -10.758667945861816
+Iteration 12851:
+Training Loss: -7.0849480628967285
+Reconstruction Loss: -10.764200210571289
+Iteration 12901:
+Training Loss: -7.072691917419434
+Reconstruction Loss: -10.766448974609375
+Iteration 12951:
+Training Loss: -7.080358505249023
+Reconstruction Loss: -10.76767349243164
+Iteration 13001:
+Training Loss: -7.201259136199951
+Reconstruction Loss: -10.774147033691406
+Iteration 13051:
+Training Loss: -7.256375789642334
+Reconstruction Loss: -10.77389144897461
+Iteration 13101:
+Training Loss: -7.197765350341797
+Reconstruction Loss: -10.776872634887695
+Iteration 13151:
+Training Loss: -7.14024543762207
+Reconstruction Loss: -10.776679992675781
+Iteration 13201:
+Training Loss: -7.229698181152344
+Reconstruction Loss: -10.78609848022461
+Iteration 13251:
+Training Loss: -7.298488616943359
+Reconstruction Loss: -10.782652854919434
+Iteration 13301:
+Training Loss: -7.18159294128418
+Reconstruction Loss: -10.782837867736816
+Iteration 13351:
+Training Loss: -7.203995227813721
+Reconstruction Loss: -10.793107032775879
+Iteration 13401:
+Training Loss: -7.177667617797852
+Reconstruction Loss: -10.796717643737793
+Iteration 13451:
+Training Loss: -7.349034309387207
+Reconstruction Loss: -10.795619010925293
+Iteration 13501:
+Training Loss: -7.248981475830078
+Reconstruction Loss: -10.796781539916992
+Iteration 13551:
+Training Loss: -7.350472450256348
+Reconstruction Loss: -10.802751541137695
+Iteration 13601:
+Training Loss: -7.275270462036133
+Reconstruction Loss: -10.808351516723633
+Iteration 13651:
+Training Loss: -7.2751264572143555
+Reconstruction Loss: -10.811206817626953
+Iteration 13701:
+Training Loss: -7.2827839851379395
+Reconstruction Loss: -10.810820579528809
+Iteration 13751:
+Training Loss: -7.358931064605713
+Reconstruction Loss: -10.814896583557129
+Iteration 13801:
+Training Loss: -7.17073392868042
+Reconstruction Loss: -10.817788124084473
+Iteration 13851:
+Training Loss: -7.2803544998168945
+Reconstruction Loss: -10.821273803710938
+Iteration 13901:
+Training Loss: -7.240795135498047
+Reconstruction Loss: -10.824435234069824
+Iteration 13951:
+Training Loss: -7.2852888107299805
+Reconstruction Loss: -10.82356071472168
+Iteration 14001:
+Training Loss: -7.416770935058594
+Reconstruction Loss: -10.82424259185791
+Iteration 14051:
+Training Loss: -7.426858901977539
+Reconstruction Loss: -10.827659606933594
+Iteration 14101:
+Training Loss: -7.335822582244873
+Reconstruction Loss: -10.831218719482422
+Iteration 14151:
+Training Loss: -7.310269355773926
+Reconstruction Loss: -10.834955215454102
+Iteration 14201:
+Training Loss: -7.264176845550537
+Reconstruction Loss: -10.82812213897705
+Iteration 14251:
+Training Loss: -7.2098469734191895
+Reconstruction Loss: -10.84028434753418
+Iteration 14301:
+Training Loss: -7.2240190505981445
+Reconstruction Loss: -10.843146324157715
+Iteration 14351:
+Training Loss: -7.36448860168457
+Reconstruction Loss: -10.844416618347168
+Iteration 14401:
+Training Loss: -7.436088562011719
+Reconstruction Loss: -10.846951484680176
+Iteration 14451:
+Training Loss: -7.380738735198975
+Reconstruction Loss: -10.851388931274414
+Iteration 14501:
+Training Loss: -7.289019584655762
+Reconstruction Loss: -10.854801177978516
+Iteration 14551:
+Training Loss: -7.353511333465576
+Reconstruction Loss: -10.856359481811523
+Iteration 14601:
+Training Loss: -7.421594619750977
+Reconstruction Loss: -10.858527183532715
+Iteration 14651:
+Training Loss: -7.366995811462402
+Reconstruction Loss: -10.862385749816895
+Iteration 14701:
+Training Loss: -7.349170684814453
+Reconstruction Loss: -10.866837501525879
+Iteration 14751:
+Training Loss: -7.3702392578125
+Reconstruction Loss: -10.865623474121094
+Iteration 14801:
+Training Loss: -7.310598850250244
+Reconstruction Loss: -10.869186401367188
+Iteration 14851:
+Training Loss: -7.345293045043945
+Reconstruction Loss: -10.870333671569824
+Iteration 14901:
+Training Loss: -7.309301376342773
+Reconstruction Loss: -10.871955871582031
+Iteration 14951:
+Training Loss: -7.294576644897461
+Reconstruction Loss: -10.874813079833984
+Iteration 15001:
+Training Loss: -7.3108811378479
+Reconstruction Loss: -10.879256248474121
+Iteration 15051:
+Training Loss: -7.353103160858154
+Reconstruction Loss: -10.876866340637207
+Iteration 15101:
+Training Loss: -7.4429121017456055
+Reconstruction Loss: -10.880439758300781
+Iteration 15151:
+Training Loss: -7.30658483505249
+Reconstruction Loss: -10.888321876525879
+Iteration 15201:
+Training Loss: -7.274210453033447
+Reconstruction Loss: -10.886528015136719
+Iteration 15251:
+Training Loss: -7.325758457183838
+Reconstruction Loss: -10.888238906860352
+Iteration 15301:
+Training Loss: -7.399290084838867
+Reconstruction Loss: -10.888969421386719
+Iteration 15351:
+Training Loss: -7.415988922119141
+Reconstruction Loss: -10.89754581451416
+Iteration 15401:
+Training Loss: -7.481418609619141
+Reconstruction Loss: -10.900367736816406
+Iteration 15451:
+Training Loss: -7.438257217407227
+Reconstruction Loss: -10.900492668151855
+Iteration 15501:
+Training Loss: -7.616952896118164
+Reconstruction Loss: -10.906612396240234
+Iteration 15551:
+Training Loss: -7.471345901489258
+Reconstruction Loss: -10.906519889831543
+Iteration 15601:
+Training Loss: -7.4388885498046875
+Reconstruction Loss: -10.913816452026367
+Iteration 15651:
+Training Loss: -7.307300090789795
+Reconstruction Loss: -10.906859397888184
+Iteration 15701:
+Training Loss: -7.389880657196045
+Reconstruction Loss: -10.916694641113281
+Iteration 15751:
+Training Loss: -7.365035533905029
+Reconstruction Loss: -10.917316436767578
+Iteration 15801:
+Training Loss: -7.568657875061035
+Reconstruction Loss: -10.915068626403809
+Iteration 15851:
+Training Loss: -7.366343975067139
+Reconstruction Loss: -10.912199974060059
+Iteration 15901:
+Training Loss: -7.462628364562988
+Reconstruction Loss: -10.919361114501953
+Iteration 15951:
+Training Loss: -7.3734130859375
+Reconstruction Loss: -10.925646781921387
+Iteration 16001:
+Training Loss: -7.4157490730285645
+Reconstruction Loss: -10.929983139038086
+Iteration 16051:
+Training Loss: -7.466288089752197
+Reconstruction Loss: -10.929727554321289
+Iteration 16101:
+Training Loss: -7.4121413230896
+Reconstruction Loss: -10.934070587158203
+Iteration 16151:
+Training Loss: -7.307615756988525
+Reconstruction Loss: -10.933210372924805
+Iteration 16201:
+Training Loss: -7.415629863739014
+Reconstruction Loss: -10.932860374450684
+Iteration 16251:
+Training Loss: -7.5067362785339355
+Reconstruction Loss: -10.938409805297852
+Iteration 16301:
+Training Loss: -7.365025520324707
+Reconstruction Loss: -10.944768905639648
+Iteration 16351:
+Training Loss: -7.518857002258301
+Reconstruction Loss: -10.951589584350586
+Iteration 16401:
+Training Loss: -7.492401123046875
+Reconstruction Loss: -10.946943283081055
+Iteration 16451:
+Training Loss: -7.417876243591309
+Reconstruction Loss: -10.942766189575195
+Iteration 16501:
+Training Loss: -7.447606563568115
+Reconstruction Loss: -10.950739860534668
+Iteration 16551:
+Training Loss: -7.5634636878967285
+Reconstruction Loss: -10.954570770263672
+Iteration 16601:
+Training Loss: -7.4786858558654785
+Reconstruction Loss: -10.954566955566406
+Iteration 16651:
+Training Loss: -7.609142780303955
+Reconstruction Loss: -10.956156730651855
+Iteration 16701:
+Training Loss: -7.600634574890137
+Reconstruction Loss: -10.963062286376953
+Iteration 16751:
+Training Loss: -7.333359241485596
+Reconstruction Loss: -10.959049224853516
+Iteration 16801:
+Training Loss: -7.527455806732178
+Reconstruction Loss: -10.961318969726562
+Iteration 16851:
+Training Loss: -7.550388813018799
+Reconstruction Loss: -10.96597957611084
+Iteration 16901:
+Training Loss: -7.408721923828125
+Reconstruction Loss: -10.96622085571289
+Iteration 16951:
+Training Loss: -7.467348575592041
+Reconstruction Loss: -10.974281311035156
+Iteration 17001:
+Training Loss: -7.54628849029541
+Reconstruction Loss: -10.968430519104004
+Iteration 17051:
+Training Loss: -7.490013599395752
+Reconstruction Loss: -10.98102855682373
+Iteration 17101:
+Training Loss: -7.435520648956299
+Reconstruction Loss: -10.97668170928955
+Iteration 17151:
+Training Loss: -7.47903299331665
+Reconstruction Loss: -10.974237442016602
+Iteration 17201:
+Training Loss: -7.416396141052246
+Reconstruction Loss: -10.98291301727295
+Iteration 17251:
+Training Loss: -7.450775623321533
+Reconstruction Loss: -10.986069679260254
+Iteration 17301:
+Training Loss: -7.67207145690918
+Reconstruction Loss: -10.987326622009277
+Iteration 17351:
+Training Loss: -7.407294750213623
+Reconstruction Loss: -10.988985061645508
+Iteration 17401:
+Training Loss: -7.758150577545166
+Reconstruction Loss: -10.99074649810791
+Iteration 17451:
+Training Loss: -7.5339741706848145
+Reconstruction Loss: -10.991424560546875
+Iteration 17501:
+Training Loss: -7.408806324005127
+Reconstruction Loss: -10.996665954589844
+Iteration 17551:
+Training Loss: -7.456605434417725
+Reconstruction Loss: -11.001977920532227
+Iteration 17601:
+Training Loss: -7.432290077209473
+Reconstruction Loss: -10.997389793395996
+Iteration 17651:
+Training Loss: -7.582841396331787
+Reconstruction Loss: -11.004709243774414
+Iteration 17701:
+Training Loss: -7.465296268463135
+Reconstruction Loss: -11.005093574523926
+Iteration 17751:
+Training Loss: -7.664425373077393
+Reconstruction Loss: -11.001383781433105
+Iteration 17801:
+Training Loss: -7.467833518981934
+Reconstruction Loss: -11.011425018310547
+Iteration 17851:
+Training Loss: -7.390241622924805
+Reconstruction Loss: -11.010855674743652
+Iteration 17901:
+Training Loss: -7.616076946258545
+Reconstruction Loss: -11.017233848571777
+Iteration 17951:
+Training Loss: -7.411232948303223
+Reconstruction Loss: -11.01431941986084
+Iteration 18001:
+Training Loss: -7.600086212158203
+Reconstruction Loss: -11.018234252929688
+Iteration 18051:
+Training Loss: -7.452713966369629
+Reconstruction Loss: -11.022605895996094
+Iteration 18101:
+Training Loss: -7.536573886871338
+Reconstruction Loss: -11.018847465515137
+Iteration 18151:
+Training Loss: -7.4761176109313965
+Reconstruction Loss: -11.028268814086914
+Iteration 18201:
+Training Loss: -7.491269111633301
+Reconstruction Loss: -11.029987335205078
+Iteration 18251:
+Training Loss: -7.549168586730957
+Reconstruction Loss: -11.03106689453125
+Iteration 18301:
+Training Loss: -7.505458354949951
+Reconstruction Loss: -11.028160095214844
+Iteration 18351:
+Training Loss: -7.528525352478027
+Reconstruction Loss: -11.030532836914062
+Iteration 18401:
+Training Loss: -7.572298049926758
+Reconstruction Loss: -11.032366752624512
+Iteration 18451:
+Training Loss: -7.613088607788086
+Reconstruction Loss: -11.03643798828125
+Iteration 18501:
+Training Loss: -7.548576354980469
+Reconstruction Loss: -11.039735794067383
+Iteration 18551:
+Training Loss: -7.540792942047119
+Reconstruction Loss: -11.043436050415039
+Iteration 18601:
+Training Loss: -7.46036434173584
+Reconstruction Loss: -11.040815353393555
+Iteration 18651:
+Training Loss: -7.584521293640137
+Reconstruction Loss: -11.04126262664795
+Iteration 18701:
+Training Loss: -7.555171489715576
+Reconstruction Loss: -11.048507690429688
+Iteration 18751:
+Training Loss: -7.531862735748291
+Reconstruction Loss: -11.046990394592285
+Iteration 18801:
+Training Loss: -7.538139343261719
+Reconstruction Loss: -11.050359725952148
+Iteration 18851:
+Training Loss: -7.521600246429443
+Reconstruction Loss: -11.046316146850586
+Iteration 18901:
+Training Loss: -7.529209136962891
+Reconstruction Loss: -11.047980308532715
+Iteration 18951:
+Training Loss: -7.6815032958984375
+Reconstruction Loss: -11.05608081817627
+Iteration 19001:
+Training Loss: -7.5569682121276855
+Reconstruction Loss: -11.062636375427246
+Iteration 19051:
+Training Loss: -7.496280193328857
+Reconstruction Loss: -11.065893173217773
+Iteration 19101:
+Training Loss: -7.619861602783203
+Reconstruction Loss: -11.060026168823242
+Iteration 19151:
+Training Loss: -7.682631492614746
+Reconstruction Loss: -11.06855297088623
+Iteration 19201:
+Training Loss: -7.621567726135254
+Reconstruction Loss: -11.062100410461426
+Iteration 19251:
+Training Loss: -7.598315715789795
+Reconstruction Loss: -11.062878608703613
+Iteration 19301:
+Training Loss: -7.6352338790893555
+Reconstruction Loss: -11.068460464477539
+Iteration 19351:
+Training Loss: -7.766574382781982
+Reconstruction Loss: -11.07597827911377
+Iteration 19401:
+Training Loss: -7.6126580238342285
+Reconstruction Loss: -11.074376106262207
+Iteration 19451:
+Training Loss: -7.510497093200684
+Reconstruction Loss: -11.072356224060059
+Iteration 19501:
+Training Loss: -7.604496955871582
+Reconstruction Loss: -11.081205368041992
+Iteration 19551:
+Training Loss: -7.75628137588501
+Reconstruction Loss: -11.08306884765625
+Iteration 19601:
+Training Loss: -7.608128070831299
+Reconstruction Loss: -11.083155632019043
+Iteration 19651:
+Training Loss: -7.554904460906982
+Reconstruction Loss: -11.086018562316895
+Iteration 19701:
+Training Loss: -7.53980827331543
+Reconstruction Loss: -11.087113380432129
+Iteration 19751:
+Training Loss: -7.58155632019043
+Reconstruction Loss: -11.088895797729492
+Iteration 19801:
+Training Loss: -7.627002716064453
+Reconstruction Loss: -11.08642864227295
+Iteration 19851:
+Training Loss: -7.642466068267822
+Reconstruction Loss: -11.090720176696777
+Iteration 19901:
+Training Loss: -7.600921154022217
+Reconstruction Loss: -11.08716106414795
+Iteration 19951:
+Training Loss: -7.622040271759033
+Reconstruction Loss: -11.098527908325195
+Iteration 20001:
+Training Loss: -7.698254108428955
+Reconstruction Loss: -11.096290588378906
+Iteration 20051:
+Training Loss: -7.565449237823486
+Reconstruction Loss: -11.095907211303711
+Iteration 20101:
+Training Loss: -7.564784049987793
+Reconstruction Loss: -11.104135513305664
+Iteration 20151:
+Training Loss: -7.683873653411865
+Reconstruction Loss: -11.102715492248535
+Iteration 20201:
+Training Loss: -7.7641777992248535
+Reconstruction Loss: -11.10801887512207
+Iteration 20251:
+Training Loss: -7.625034332275391
+Reconstruction Loss: -11.105670928955078
+Iteration 20301:
+Training Loss: -7.465442180633545
+Reconstruction Loss: -11.108510971069336
+Iteration 20351:
+Training Loss: -7.677491664886475
+Reconstruction Loss: -11.109749794006348
+Iteration 20401:
+Training Loss: -7.668278694152832
+Reconstruction Loss: -11.108987808227539
+Iteration 20451:
+Training Loss: -7.6088972091674805
+Reconstruction Loss: -11.120284080505371
+Iteration 20501:
+Training Loss: -7.74424934387207
+Reconstruction Loss: -11.11532974243164
+Iteration 20551:
+Training Loss: -7.675901889801025
+Reconstruction Loss: -11.117528915405273
+Iteration 20601:
+Training Loss: -7.530470848083496
+Reconstruction Loss: -11.120171546936035
+Iteration 20651:
+Training Loss: -7.717541217803955
+Reconstruction Loss: -11.116523742675781
+Iteration 20701:
+Training Loss: -7.585668087005615
+Reconstruction Loss: -11.124197959899902
+Iteration 20751:
+Training Loss: -7.619381427764893
+Reconstruction Loss: -11.126334190368652
+Iteration 20801:
+Training Loss: -7.762260437011719
+Reconstruction Loss: -11.122802734375
+Iteration 20851:
+Training Loss: -7.845624923706055
+Reconstruction Loss: -11.130884170532227
+Iteration 20901:
+Training Loss: -7.615992546081543
+Reconstruction Loss: -11.130927085876465
+Iteration 20951:
+Training Loss: -7.73897647857666
+Reconstruction Loss: -11.133061408996582
+Iteration 21001:
+Training Loss: -7.741764545440674
+Reconstruction Loss: -11.134913444519043
+Iteration 21051:
+Training Loss: -7.6498918533325195
+Reconstruction Loss: -11.138999938964844
+Iteration 21101:
+Training Loss: -7.7657647132873535
+Reconstruction Loss: -11.135287284851074
+Iteration 21151:
+Training Loss: -7.741460800170898
+Reconstruction Loss: -11.14002799987793
+Iteration 21201:
+Training Loss: -7.713127136230469
+Reconstruction Loss: -11.146376609802246
+Iteration 21251:
+Training Loss: -7.627953052520752
+Reconstruction Loss: -11.14021110534668
+Iteration 21301:
+Training Loss: -7.8624982833862305
+Reconstruction Loss: -11.146464347839355
+Iteration 21351:
+Training Loss: -7.791438102722168
+Reconstruction Loss: -11.148636817932129
+Iteration 21401:
+Training Loss: -7.7074809074401855
+Reconstruction Loss: -11.150501251220703
+Iteration 21451:
+Training Loss: -7.618191242218018
+Reconstruction Loss: -11.150190353393555
+Iteration 21501:
+Training Loss: -7.742908477783203
+Reconstruction Loss: -11.151735305786133
+Iteration 21551:
+Training Loss: -7.824116230010986
+Reconstruction Loss: -11.155269622802734
+Iteration 21601:
+Training Loss: -7.752713203430176
+Reconstruction Loss: -11.157086372375488
+Iteration 21651:
+Training Loss: -7.627595901489258
+Reconstruction Loss: -11.161758422851562
+Iteration 21701:
+Training Loss: -7.672734260559082
+Reconstruction Loss: -11.15975284576416
+Iteration 21751:
+Training Loss: -7.908544063568115
+Reconstruction Loss: -11.1633882522583
+Iteration 21801:
+Training Loss: -7.728307247161865
+Reconstruction Loss: -11.162565231323242
+Iteration 21851:
+Training Loss: -7.762388229370117
+Reconstruction Loss: -11.16867446899414
+Iteration 21901:
+Training Loss: -7.743675231933594
+Reconstruction Loss: -11.165315628051758
+Iteration 21951:
+Training Loss: -7.682836055755615
+Reconstruction Loss: -11.169774055480957
+Iteration 22001:
+Training Loss: -7.79520845413208
+Reconstruction Loss: -11.169559478759766
+Iteration 22051:
+Training Loss: -7.847862720489502
+Reconstruction Loss: -11.172018051147461
+Iteration 22101:
+Training Loss: -7.689841270446777
+Reconstruction Loss: -11.172749519348145
+Iteration 22151:
+Training Loss: -7.81182336807251
+Reconstruction Loss: -11.173603057861328
+Iteration 22201:
+Training Loss: -7.643193244934082
+Reconstruction Loss: -11.182693481445312
+Iteration 22251:
+Training Loss: -7.723453521728516
+Reconstruction Loss: -11.183165550231934
+Iteration 22301:
+Training Loss: -7.822310447692871
+Reconstruction Loss: -11.181465148925781
+Iteration 22351:
+Training Loss: -7.8195390701293945
+Reconstruction Loss: -11.181461334228516
+Iteration 22401:
+Training Loss: -8.022171974182129
+Reconstruction Loss: -11.180790901184082
+Iteration 22451:
+Training Loss: -7.6730194091796875
+Reconstruction Loss: -11.186180114746094
+Iteration 22501:
+Training Loss: -7.847796440124512
+Reconstruction Loss: -11.187220573425293
+Iteration 22551:
+Training Loss: -7.911235809326172
+Reconstruction Loss: -11.190574645996094
+Iteration 22601:
+Training Loss: -7.744822978973389
+Reconstruction Loss: -11.194289207458496
+Iteration 22651:
+Training Loss: -7.825608253479004
+Reconstruction Loss: -11.192895889282227
+Iteration 22701:
+Training Loss: -7.706785202026367
+Reconstruction Loss: -11.195202827453613
+Iteration 22751:
+Training Loss: -7.751830101013184
+Reconstruction Loss: -11.196891784667969
+Iteration 22801:
+Training Loss: -7.674448013305664
+Reconstruction Loss: -11.198898315429688
+Iteration 22851:
+Training Loss: -7.715660095214844
+Reconstruction Loss: -11.2012939453125
+Iteration 22901:
+Training Loss: -7.697113037109375
+Reconstruction Loss: -11.198906898498535
+Iteration 22951:
+Training Loss: -7.899979591369629
+Reconstruction Loss: -11.203014373779297
+Iteration 23001:
+Training Loss: -7.716124534606934
+Reconstruction Loss: -11.204238891601562
+Iteration 23051:
+Training Loss: -7.912725925445557
+Reconstruction Loss: -11.204379081726074
+Iteration 23101:
+Training Loss: -7.763132572174072
+Reconstruction Loss: -11.202570915222168
+Iteration 23151:
+Training Loss: -7.749051094055176
+Reconstruction Loss: -11.21168041229248
+Iteration 23201:
+Training Loss: -7.776774883270264
+Reconstruction Loss: -11.211095809936523
+Iteration 23251:
+Training Loss: -7.787509918212891
+Reconstruction Loss: -11.213767051696777
+Iteration 23301:
+Training Loss: -7.733688831329346
+Reconstruction Loss: -11.212356567382812
+Iteration 23351:
+Training Loss: -7.7340898513793945
+Reconstruction Loss: -11.214555740356445
+Iteration 23401:
+Training Loss: -7.828591346740723
+Reconstruction Loss: -11.219453811645508
+Iteration 23451:
+Training Loss: -7.730279922485352
+Reconstruction Loss: -11.219799041748047
+Iteration 23501:
+Training Loss: -7.780696392059326
+Reconstruction Loss: -11.222347259521484
+Iteration 23551:
+Training Loss: -7.748053073883057
+Reconstruction Loss: -11.221170425415039
+Iteration 23601:
+Training Loss: -7.734649658203125
+Reconstruction Loss: -11.22472858428955
+Iteration 23651:
+Training Loss: -7.779273509979248
+Reconstruction Loss: -11.225707054138184
+Iteration 23701:
+Training Loss: -7.821676254272461
+Reconstruction Loss: -11.234135627746582
+Iteration 23751:
+Training Loss: -7.8784685134887695
+Reconstruction Loss: -11.230135917663574
+Iteration 23801:
+Training Loss: -7.736365795135498
+Reconstruction Loss: -11.230076789855957
+Iteration 23851:
+Training Loss: -7.996441841125488
+Reconstruction Loss: -11.235760688781738
+Iteration 23901:
+Training Loss: -7.889227867126465
+Reconstruction Loss: -11.236249923706055
+Iteration 23951:
+Training Loss: -7.835267066955566
+Reconstruction Loss: -11.237082481384277
+Iteration 24001:
+Training Loss: -7.801220417022705
+Reconstruction Loss: -11.2317533493042
+Iteration 24051:
+Training Loss: -7.7664570808410645
+Reconstruction Loss: -11.235930442810059
+Iteration 24101:
+Training Loss: -7.755433082580566
+Reconstruction Loss: -11.241363525390625
+Iteration 24151:
+Training Loss: -7.857672214508057
+Reconstruction Loss: -11.24661636352539
+Iteration 24201:
+Training Loss: -7.776576042175293
+Reconstruction Loss: -11.240565299987793
+Iteration 24251:
+Training Loss: -7.832737922668457
+Reconstruction Loss: -11.245129585266113
+Iteration 24301:
+Training Loss: -7.80855131149292
+Reconstruction Loss: -11.24750804901123
+Iteration 24351:
+Training Loss: -7.749694347381592
+Reconstruction Loss: -11.249454498291016
+Iteration 24401:
+Training Loss: -7.887428283691406
+Reconstruction Loss: -11.25046157836914
+Iteration 24451:
+Training Loss: -7.93889045715332
+Reconstruction Loss: -11.253934860229492
+Iteration 24501:
+Training Loss: -7.779115676879883
+Reconstruction Loss: -11.254456520080566
+Iteration 24551:
+Training Loss: -7.881948947906494
+Reconstruction Loss: -11.255318641662598
+Iteration 24601:
+Training Loss: -7.712586402893066
+Reconstruction Loss: -11.256537437438965
+Iteration 24651:
+Training Loss: -7.925317287445068
+Reconstruction Loss: -11.254638671875
+Iteration 24701:
+Training Loss: -7.968975067138672
+Reconstruction Loss: -11.26174545288086
+Iteration 24751:
+Training Loss: -7.960029125213623
+Reconstruction Loss: -11.259581565856934
+Iteration 24801:
+Training Loss: -7.943057060241699
+Reconstruction Loss: -11.265548706054688
+Iteration 24851:
+Training Loss: -7.889425277709961
+Reconstruction Loss: -11.262754440307617
+Iteration 24901:
+Training Loss: -7.89144229888916
+Reconstruction Loss: -11.270759582519531
+Iteration 24951:
+Training Loss: -7.823884010314941
+Reconstruction Loss: -11.268209457397461
