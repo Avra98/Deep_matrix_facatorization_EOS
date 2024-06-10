@@ -43,7 +43,7 @@ pip install -r requirements.txt
 python eos_deep.py --step-size=0.077 --init-scale=0.1 --num-steps=10000
 ''' 
 
-The follwing code shows that whenever $\frac{2}{step-size} >Ls^{2-\frac{2}{L}}_{i} $, then oscillations start occuring in all singular values greater than $s_{i}$.
+The follwing code shows that whenever $\frac{2}{step-size} > Ls^{2-\frac{2}{L}}_{i}$, then oscillations start occuring in all singular values greater than $s_{i}$.
 
-All other singular values and singular vectors remain statioanry.
+All other singular values and singular vectors remain stationary.
 
